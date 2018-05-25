@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Booking_Test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: we
+Implementation-Vendor-Id: Booking_Test
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/Booking_Test
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
